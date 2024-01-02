@@ -1,0 +1,25 @@
+name: "Yuanhong Li 李元鸿"
+description: "Homepage"
+
+url: '' 
+baseurl: ''
+
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+
+#disqus-id: your-disqus-id
+
+source: .
+destination: ./_site
+
+sass:
+    style: :compressed
+    sass_dir: assets/css/
+
