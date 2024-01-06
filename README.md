@@ -1,2 +1,0 @@
-# The homepage of doujiang
-
